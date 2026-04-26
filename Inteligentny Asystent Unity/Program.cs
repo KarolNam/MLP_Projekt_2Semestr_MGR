@@ -3,3 +3,5 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("BNUUUUUUUUU!");
 Console.WriteLine("test");
+
+Console.WriteLine("Stasiu widzisz mnie?");
